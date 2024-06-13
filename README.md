@@ -1,13 +1,15 @@
 # resultados de um e-commerce com Power BI
 
 # Contexto
+
 Realizei a aplicação de meus conhecimentos de Excel e de Power BI
 para construir um modelo de regressão linear capaz de
 prever os resultados de faturamento de um e-commerce.
 Também estabeleci recomendações sobre como a
 empresa pode melhorar seus resultados.
 
-# Dados
+# Informações do Dashboard
+
 card de quantidade de vendas
 
 card de valor total de vendas sem frete
