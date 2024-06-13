@@ -1,4 +1,4 @@
-#resultados de um e-commerce com Power BI
+# resultados de um e-commerce com Power BI
 
 # Contexto
 Realizei a aplicação de meus conhecimentos de Excel e de Power BI
